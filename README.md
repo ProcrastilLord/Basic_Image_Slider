@@ -1,2 +1,4 @@
 # Basic_Image_Slider
-Website iamge slider
+Website image slider
+
+Just building this for my personal website.
